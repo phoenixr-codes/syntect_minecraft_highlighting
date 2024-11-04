@@ -1,0 +1,13 @@
+[package]
+name = "syntect_minecraft_highlighting"
+version = "0.1.0"
+authors = ["Jonas da Silva"]
+edition = "2021"
+description = "Highlight code with Minecraft formatting"
+repository = "https://github.com/phoenixr-codes/syntect_minecraft_highlighting"
+license = "Unlicense"
+keywords = ["highlighting", "minecraft"]
+categories = ["graphics", "gui", "visualization"]
+
+[dependencies]
+syntect = "5.2.0"
