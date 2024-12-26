@@ -3,6 +3,9 @@
 This crate contains a function for highlighting styled fragments created by [syntect][] with
 [Minecraft Formatting][].
 
+![Example of highlighting in a book](./screenshots/book.jpg)
+
+
 ## Example
 
 ```rust
